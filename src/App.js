@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Header />
       <Counter />
+      <div>Footer should be added here</div>
     </div>
   );
 }
